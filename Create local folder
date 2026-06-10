@@ -1,0 +1,3 @@
+mkdir k8s-kind-lab
+cd k8s-kind-lab
+git init
